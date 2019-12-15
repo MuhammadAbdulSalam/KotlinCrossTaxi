@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "202238544178",
+    "firebase_url": "https://droplettest-cba19.firebaseio.com",
+    "project_id": "droplettest-cba19",
+    "storage_bucket": "droplettest-cba19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202238544178:android:6ce741762a68db2ffbaf2b",
+        "android_client_info": {
+          "package_name": "com.salam.crosstaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202238544178-glle7sf5u66qubrod37br4joc4ebe4uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salam.crosstaxi",
+            "certificate_hash": "d7c4a5bbd04d9fed57bd371675991a1b1834f9ab"
+          }
+        },
+        {
+          "client_id": "202238544178-t1uiu0q8oh8hbgi82daic8a8rnu10r18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpbhhpUsMIYvou3u1qqwa0-5Vbl3D6lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202238544178-t1uiu0q8oh8hbgi82daic8a8rnu10r18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202238544178-ikaaadrm67ct4r3dp1ldfb9g22i0kgkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salam.crosstaxi.CrossTaxiIOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202238544178:android:77afdc9f6e015a08fbaf2b",
+        "android_client_info": {
+          "package_name": "com.salam.dropletjobtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202238544178-cj0urka3ve2sbi29kit6n2uq6fammh5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salam.dropletjobtest",
+            "certificate_hash": "a8f8be4eeb09bbdcaf9c4984748a0fa1b19b63e1"
+          }
+        },
+        {
+          "client_id": "202238544178-t1uiu0q8oh8hbgi82daic8a8rnu10r18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpbhhpUsMIYvou3u1qqwa0-5Vbl3D6lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202238544178-t1uiu0q8oh8hbgi82daic8a8rnu10r18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202238544178-ikaaadrm67ct4r3dp1ldfb9g22i0kgkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salam.crosstaxi.CrossTaxiIOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
